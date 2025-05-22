@@ -1,0 +1,47 @@
+[
+  {
+    "id": 1747829000001,
+    "title": "Task Manager API",
+    "description": "Node.js backend with JWT authentication and MongoDB"
+  },
+  {
+    "id": 1747829000002,
+    "title": "Console Chess Game",
+    "description": "Built in C++ using object-oriented design and game logic"
+  },
+  {
+    "id": 1747829000003,
+    "title": "Data Visualization Dashboard",
+    "description": "React + Chart.js interface for real-time analytics"
+  },
+  {
+    "id": 1747829000004,
+    "title": "KNN Classifier",
+    "description": "Python ML project trained on real-world datasets"
+  },
+  {
+    "id": 1747829000005,
+    "title": "Movie Search App",
+    "description": "React frontend with OMDB API and live filtering"
+  },
+  {
+    "id": 1747829000006,
+    "title": "Portfolio Website",
+    "description": "Fullstack React & Express portfolio deployed to Render"
+  },
+  {
+    "id": 1747829000007,
+    "title": "Book Recommender System",
+    "description": "Content-based engine using cosine similarity in Python"
+  },
+  {
+    "id": 1747829000008,
+    "title": "Global Shipping Simulator",
+    "description": "Java logistics simulation using OOP and threading"
+  },
+  {
+    "id": 1747829000009,
+    "title": "Virtual File System",
+    "description": "C++ shell with support for files, folders, and links"
+  }
+]
