@@ -66,6 +66,11 @@ function writeContacts(contacts) {
   fs.writeFileSync(CONTACTS_PATH, JSON.stringify(contacts, null, 2));
 }
 
+// GET all contacts
+app.get('/api/contacts', (req, res) => {
+  res.json(readContacts());
+});
+
 // POST contact submission
 app.post('/api/contact', (req, res) => {
   const contacts = readContacts();

@@ -12,7 +12,7 @@ export default function Home() {
   return (
     <div className="container-fluid d-flex flex-column justify-content-center align-items-center min-vh-100 text-center text-light bg-dark position-relative overflow-hidden px-3">
       {/* Profile */}
-      <img
+      {/* <img
         src="/profile.jpg"
         alt="Profile"
         className="rounded-circle shadow mb-4"
@@ -23,7 +23,7 @@ export default function Home() {
           border: '3px solid #0d6efd'
         }}
         data-aos="fade-down"
-      />
+      /> */}
 
       {/* Name & Animated Title */}
       <h1 className="display-4 fw-bold mb-2" data-aos="fade-up">
@@ -58,10 +58,6 @@ export default function Home() {
         </a>
         <a href="/contact" className="btn btn-outline-light px-4 shadow-sm">
           Contact Me
-        </a>
-        <a href="/resume.pdf" target="_blank" rel="noopener noreferrer" className="btn btn-outline-info px-4 shadow-sm">
-          <FaDownload className="me-2" />
-          Download CV
         </a>
       </div>
 
