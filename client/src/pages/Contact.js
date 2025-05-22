@@ -88,15 +88,6 @@ export default function Contact() {
               {status}
             </div>
           )}
-
-          <div className="mt-5 d-flex justify-content-center gap-4">
-            <a href="https://www.linkedin.com/in/your-profile" target="_blank" rel="noopener noreferrer" className="text-decoration-none text-dark">
-              <FaLinkedin size={36} />
-            </a>
-            <a href="https://github.com/your-username" target="_blank" rel="noopener noreferrer" className="text-decoration-none text-dark">
-              <FaGithub size={36} />
-            </a>
-          </div>
         </div>
       </div>
     </div>
