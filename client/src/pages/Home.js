@@ -27,7 +27,7 @@ export default function Home() {
 
       {/* Name & Animated Title */}
       <h1 className="display-4 fw-bold mb-2" data-aos="fade-up">
-        Hi, I'm <span className="text-primary">[Your Name]</span>
+        Hi, I'm <span className="text-primary">Mahmoud Hleihil</span>
       </h1>
 
       <TypeAnimation
@@ -110,16 +110,6 @@ export default function Home() {
       {/* Quote */}
       <div className="mt-5 text-info fst-italic" data-aos="fade-up" data-aos-delay="1200">
         <p>"Learning to write programs stretches your mind, and helps you think better." – Bill Gates</p>
-      </div>
-
-      {/* Social Icons */}
-      <div className="mt-4 d-flex justify-content-center gap-4" data-aos="fade-up" data-aos-delay="800">
-        <a href="https://linkedin.com/in/your-profile" className="text-light fs-3" target="_blank" rel="noopener noreferrer">
-          <FaLinkedin />
-        </a>
-        <a href="https://github.com/your-username" className="text-light fs-3" target="_blank" rel="noopener noreferrer">
-          <FaGithub />
-        </a>
       </div>
 
       {/* Personal Quote */}
