@@ -59,3 +59,10 @@ This is a fullstack personal portfolio project that showcases selected projects,
   ✅ **Solution:** Wrapped project list items with Framer Motion’s `motion.div` with fade effect
 
 ---
+# Portfolio Backend with MySQL
+
+## Setup
+
+1. Install dependencies:
+```bash
+npm install express cors mysql2 dotenv
